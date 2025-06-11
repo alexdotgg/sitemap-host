@@ -1,0 +1,402 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://help.altair.com/hwdesktop/hwx/topics/pre_processing/connectors/connectors.htm</loc>
+  <lastmod>2025-06-11T08:58:36+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://help.altair.com/hwdesktop/hwx/topics/pre_processing/connectors/connectors_preferences_r.htm</loc>
+  <lastmod>2025-06-11T08:58:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://help.altair.com/hwdesktop/hwx/topics/pre_processing/connectors/connector_browser_open_unity_r.htm</loc>
+  <lastmod>2025-06-11T08:58:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://help.altair.com/hwdesktop/hwx/topics/pre_processing/connectors/connector_controls_create_edit_t.htm</loc>
+  <lastmod>2025-06-11T08:58:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://help.altair.com/hwdesktop/hwx/topics/pre_processing/connectors/connectors_create_realize_t.htm</loc>
+  <lastmod>2025-06-11T08:58:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://help.altair.com/hwdesktop/hwx/topics/pre_processing/connectors/auto_point_t.htm</loc>
+  <lastmod>2025-06-11T08:58:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://help.altair.com/hwdesktop/hwx/topics/pre_processing/connectors/auto_fastener_t.htm</loc>
+  <lastmod>2025-06-11T08:58:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://help.altair.com/hwdesktop/hwx/topics/pre_processing/connectors/auto_line_t.htm</loc>
+  <lastmod>2025-06-11T08:58:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://help.altair.com/hwdesktop/hwx/topics/pre_processing/connectors/auto_area_t.htm</loc>
+  <lastmod>2025-06-11T08:58:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://help.altair.com/hwdesktop/hwx/topics/pre_processing/connectors/connectors_apply_mass_t.htm</loc>
+  <lastmod>2025-06-11T08:58:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://help.altair.com/hwdesktop/hwx/topics/pre_processing/connectors/quality_check_t.htm</loc>
+  <lastmod>2025-06-11T08:58:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://help.altair.com/hwdesktop/hwx/topics/pre_processing/connectors/connectors_fe_absorb_t.htm</loc>
+  <lastmod>2025-06-11T08:58:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://help.altair.com/hwdesktop/hwx/topics/pre_processing/connectors/realizations/realizations_c.htm</loc>
+  <lastmod>2025-06-11T08:58:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://help.altair.com/hwdesktop/hwx/topics/pre_processing/connectors/element_organization_c.htm</loc>
+  <lastmod>2025-06-11T08:58:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://help.altair.com/hwdesktop/hwx/topics/pre_processing/connectors/fe_configuration_file.htm</loc>
+  <lastmod>2025-06-11T08:58:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://help.altair.com/hwdesktop/hwx/topics/pre_processing/connectors/attachments_and_connectors_c.htm</loc>
+  <lastmod>2025-06-11T08:58:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://help.altair.com/hwdesktop/hwx/topics/pre_processing/connectors/connector_tools_r.htm</loc>
+  <lastmod>2025-06-11T08:58:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://help.altair.com/hwdesktop/hwx/topics/pre_processing/connectors/cad_abstraction_r.htm</loc>
+  <lastmod>2025-06-11T08:58:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://help.altair.com/hwdesktop/hwx/topics/pre_processing/connectors/realizations/realizations_point_c.htm</loc>
+  <lastmod>2025-06-11T08:58:36+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://help.altair.com/hwdesktop/hwx/topics/pre_processing/connectors/realizations/realizations_fastener_c.htm</loc>
+  <lastmod>2025-06-11T08:58:36+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://help.altair.com/hwdesktop/hwx/topics/pre_processing/connectors/realizations/realizations_line_c.htm</loc>
+  <lastmod>2025-06-11T08:58:36+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://help.altair.com/hwdesktop/hwx/topics/pre_processing/connectors/realizations/realizations_area_c.htm</loc>
+  <lastmod>2025-06-11T08:58:36+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://help.altair.com/hwdesktop/hwx/topics/pre_processing/connectors/realizations/realizations_attachment_c.htm</loc>
+  <lastmod>2025-06-11T08:58:36+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://help.altair.com/hwdesktop/hwx/topics/pre_processing/connectors/realizations/node_r.htm</loc>
+  <lastmod>2025-06-11T08:58:36+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://help.altair.com/hwdesktop/hwx/topics/pre_processing/connectors/create_attachments_unity_t.htm</loc>
+  <lastmod>2025-06-11T08:58:36+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://help.altair.com/hwdesktop/hwx/topics/pre_processing/connectors/create_attachments_from_fe_absorb_unity_t.htm</loc>
+  <lastmod>2025-06-11T08:58:36+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://help.altair.com/hwdesktop/hwx/topics/pre_processing/connectors/create_connect_attachments_unity_t.htm</loc>
+  <lastmod>2025-06-11T08:58:36+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://help.altair.com/hwdesktop/hwx/topics/pre_processing/connectors/fe_absorb_connector_links_unity_t.htm</loc>
+  <lastmod>2025-06-11T08:58:36+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://help.altair.com/hwdesktop/hwx/topics/pre_processing/connectors/realizations/beam_contact_r.htm</loc>
+  <lastmod>2025-06-11T08:58:36+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://help.altair.com/hwdesktop/hwx/topics/pre_processing/connectors/realizations/beam_rigid_r.htm</loc>
+  <lastmod>2025-06-11T08:58:36+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://help.altair.com/hwdesktop/hwx/topics/pre_processing/connectors/realizations/cfast_general_r.htm</loc>
+  <lastmod>2025-06-11T08:58:36+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://help.altair.com/hwdesktop/hwx/topics/pre_processing/connectors/realizations/cgap_g_c.htm</loc>
+  <lastmod>2025-06-11T08:58:36+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://help.altair.com/hwdesktop/hwx/topics/pre_processing/connectors/realizations/cweld_general_r.htm</loc>
+  <lastmod>2025-06-11T08:58:36+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://help.altair.com/hwdesktop/hwx/topics/pre_processing/connectors/realizations/fastener_c.htm</loc>
+  <lastmod>2025-06-11T08:58:36+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://help.altair.com/hwdesktop/hwx/topics/pre_processing/connectors/realizations/fastener_nodes_c.htm</loc>
+  <lastmod>2025-06-11T08:58:36+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://help.altair.com/hwdesktop/hwx/topics/pre_processing/connectors/realizations/femat_r.htm</loc>
+  <lastmod>2025-06-11T08:58:36+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://help.altair.com/hwdesktop/hwx/topics/pre_processing/connectors/realizations/hexa_contact_r.htm</loc>
+  <lastmod>2025-06-11T08:58:36+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://help.altair.com/hwdesktop/hwx/topics/pre_processing/connectors/realizations/hexa_nugget_c.htm</loc>
+  <lastmod>2025-06-11T08:58:36+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://help.altair.com/hwdesktop/hwx/topics/pre_processing/connectors/realizations/acm_shell_gap_and_coating_c.htm</loc>
+  <lastmod>2025-06-11T08:58:36+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://help.altair.com/hwdesktop/hwx/topics/pre_processing/connectors/realizations/acm_general_c.htm</loc>
+  <lastmod>2025-06-11T08:58:36+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://help.altair.com/hwdesktop/hwx/topics/pre_processing/connectors/realizations/hilock_c.htm</loc>
+  <lastmod>2025-06-11T08:58:36+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://help.altair.com/hwdesktop/hwx/topics/pre_processing/connectors/realizations/mastic_c.htm</loc>
+  <lastmod>2025-06-11T08:58:36+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://help.altair.com/hwdesktop/hwx/topics/pre_processing/connectors/realizations/penta_mig_c.htm</loc>
+  <lastmod>2025-06-11T08:58:36+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://help.altair.com/hwdesktop/hwx/topics/pre_processing/connectors/realizations/pie_rigid_spider_c.htm</loc>
+  <lastmod>2025-06-11T08:58:36+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://help.altair.com/hwdesktop/hwx/topics/pre_processing/connectors/realizations/plink_connector_position_c.htm</loc>
+  <lastmod>2025-06-11T08:58:36+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://help.altair.com/hwdesktop/hwx/topics/pre_processing/connectors/realizations/plink_middle_of_gap_c.htm</loc>
+  <lastmod>2025-06-11T08:58:36+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://help.altair.com/hwdesktop/hwx/topics/pre_processing/connectors/realizations/rbe3_load_transfer_c.htm</loc>
+  <lastmod>2025-06-11T08:58:36+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://help.altair.com/hwdesktop/hwx/topics/pre_processing/connectors/realizations/rigidlink_midnode_c.htm</loc>
+  <lastmod>2025-06-11T08:58:36+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://help.altair.com/hwdesktop/hwx/topics/pre_processing/connectors/realizations/spring_rigid_r.htm</loc>
+  <lastmod>2025-06-11T08:58:36+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://help.altair.com/hwdesktop/hwx/topics/pre_processing/connectors/realizations/bolt_metal_clip_c.htm</loc>
+  <lastmod>2025-06-11T08:58:36+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://help.altair.com/hwdesktop/hwx/topics/pre_processing/connectors/realizations/cylinder_r.htm</loc>
+  <lastmod>2025-06-11T08:58:36+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://help.altair.com/hwdesktop/hwx/topics/pre_processing/connectors/realizations/hole_r.htm</loc>
+  <lastmod>2025-06-11T08:58:36+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://help.altair.com/hwdesktop/hwx/topics/pre_processing/connectors/realizations/fastener_rigid_patch_r.htm</loc>
+  <lastmod>2025-06-11T08:58:36+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://help.altair.com/hwdesktop/hwx/topics/pre_processing/connectors/realizations/bolt_solid_r.htm</loc>
+  <lastmod>2025-06-11T08:58:36+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://help.altair.com/hwdesktop/hwx/topics/pre_processing/connectors/realizations/bolt_step_hole_c.htm</loc>
+  <lastmod>2025-06-11T08:58:36+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://help.altair.com/hwdesktop/hwx/topics/pre_processing/connectors/realizations/bolt_threaded_step_hole_c.htm</loc>
+  <lastmod>2025-06-11T08:58:36+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://help.altair.com/hwdesktop/hwx/topics/pre_processing/connectors/realizations/beam_contact_r_2.htm</loc>
+  <lastmod>2025-06-11T08:58:36+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://help.altair.com/hwdesktop/hwx/topics/pre_processing/connectors/realizations/contact_r.htm</loc>
+  <lastmod>2025-06-11T08:58:36+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://help.altair.com/hwdesktop/hwx/topics/pre_processing/connectors/realizations/hexa_contact_line_r.htm</loc>
+  <lastmod>2025-06-11T08:58:36+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://help.altair.com/hwdesktop/hwx/topics/pre_processing/connectors/realizations/hexa_imprint_c.htm</loc>
+  <lastmod>2025-06-11T08:58:36+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://help.altair.com/hwdesktop/hwx/topics/pre_processing/connectors/realizations/hexa_rigid_r.htm</loc>
+  <lastmod>2025-06-11T08:58:36+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://help.altair.com/hwdesktop/hwx/topics/pre_processing/connectors/realizations/llink_c.htm</loc>
+  <lastmod>2025-06-11T08:58:36+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://help.altair.com/hwdesktop/hwx/topics/pre_processing/connectors/realizations/penta_mig_c_2.htm</loc>
+  <lastmod>2025-06-11T08:58:36+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://help.altair.com/hwdesktop/hwx/topics/pre_processing/connectors/realizations/penta_imprint_c.htm</loc>
+  <lastmod>2025-06-11T08:58:36+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://help.altair.com/hwdesktop/hwx/topics/pre_processing/connectors/realizations/seam_vectors_c.htm</loc>
+  <lastmod>2025-06-11T08:58:36+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://help.altair.com/hwdesktop/hwx/topics/pre_processing/connectors/realizations/seam_quad_ltb_c.htm</loc>
+  <lastmod>2025-06-11T08:58:36+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://help.altair.com/hwdesktop/hwx/topics/pre_processing/connectors/realizations/seam_rigid_ltb_c.htm</loc>
+  <lastmod>2025-06-11T08:58:36+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://help.altair.com/hwdesktop/hwx/topics/pre_processing/connectors/realizations/spring_contact_r.htm</loc>
+  <lastmod>2025-06-11T08:58:36+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://help.altair.com/hwdesktop/hwx/topics/pre_processing/connectors/realizations/stitch_c.htm</loc>
+  <lastmod>2025-06-11T08:58:36+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://help.altair.com/hwdesktop/hwx/topics/pre_processing/connectors/realizations/stitch_hl_c.htm</loc>
+  <lastmod>2025-06-11T08:58:36+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://help.altair.com/hwdesktop/hwx/topics/pre_processing/connectors/realizations/adhesive_hemmings_c.htm</loc>
+  <lastmod>2025-06-11T08:58:36+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://help.altair.com/hwdesktop/hwx/topics/pre_processing/connectors/realizations/adhesive_contacts_c.htm</loc>
+  <lastmod>2025-06-11T08:58:36+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://help.altair.com/hwdesktop/hwx/topics/pre_processing/connectors/realizations/hemming_c.htm</loc>
+  <lastmod>2025-06-11T08:58:36+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://help.altair.com/hwdesktop/hwx/topics/pre_processing/connectors/realizations/hexa_contact_area_r.htm</loc>
+  <lastmod>2025-06-11T08:58:36+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://help.altair.com/hwdesktop/hwx/topics/pre_processing/connectors/realizations/hexa_rigid_r_2.htm</loc>
+  <lastmod>2025-06-11T08:58:36+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://help.altair.com/hwdesktop/hwx/topics/pre_processing/connectors/realizations/spring_contact_r_2.htm</loc>
+  <lastmod>2025-06-11T08:58:36+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://help.altair.com/hwdesktop/hwx/topics/pre_processing/connectors/realizations/rigid_spider_r.htm</loc>
+  <lastmod>2025-06-11T08:58:36+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://help.altair.com/hwdesktop/hwx/topics/pre_processing/connectors/realizations/rigid_patch_r.htm</loc>
+  <lastmod>2025-06-11T08:58:36+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+
+
+</urlset>
